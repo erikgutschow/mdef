@@ -1,4 +1,4 @@
-# Erik Gütschow - Fab Academy documentation
+# Erik Gütschow - Fab Academy Documentation
 
 Visit [fabacademy.org](https://fabacademy.org/) for class and other information.
 
