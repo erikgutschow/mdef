@@ -1,4 +1,4 @@
-# Your name - Fab Academy documentation
+# Erik Gütschow - Fab Academy documentation
 
 Visit [fabacademy.org](https://fabacademy.org/) for class and other information.
 
